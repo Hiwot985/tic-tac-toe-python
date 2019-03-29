@@ -5,12 +5,12 @@ Tic Tac Toe game implemented in Python using MinMax Algorithm. I have tried to c
 
 ## Contents
 1. tic_tac_toe.py 
-2. 
+
 ## Usage
 1.  `tic_tac_toe.py`  contains all the essential code required to play tic_tac_toe game.
-2. 
+
 ## Prerequisites
-This Project is intended to be used with Python `3.x` but feel free to convert it in order to use it for Python `2.x`. There is no special requirement for this project, and thus no `requirements.txt` file is provided.
+This Project is intended to be used with Python `3.x` but feel free to convert it in order to use it for Python `2.x`. There is no special requirement for this project.
 
 ## Running the game
 Use `python tic_tac_toe.py` to run the code. Its a 2 player game with high difficulty level. So, All the best on defeating the AI.
