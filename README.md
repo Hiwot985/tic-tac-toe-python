@@ -1,5 +1,6 @@
 # Tic Tac Toe - Python
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Updates](https://travis-ci.org/source-nerd/tic-tac-toe-python.svg?branch=master)
 
 Tic Tac Toe game implemented in Python using MinMax Algorithm. I have tried to comment the code as much as possible and is kept as simple as possible. The code makes use of MinMax Algorithm which is essentially a Recursive Algorithm. You can read more about the algorithm [Here](https://www.neverstopbuilding.com/blog/minimax). Kudos to the author of the above site for explaining it very clearly.
 
