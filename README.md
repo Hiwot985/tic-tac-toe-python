@@ -25,3 +25,5 @@ Here's what it looks like when running the game:
 ## Feedback & Final Thoughts
 
 Again, this project is intended for Education use. Feel free to use it. The code may not be very optimized, so if you tend to find any bug fixes, feature requests, pull requests, feedback, etc., are welcome... If you like this project, please do give it a star.
+
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
