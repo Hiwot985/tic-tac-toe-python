@@ -1,11 +1,4 @@
-"""
-Author: Sonu Prasad
-Email: sonuprasad.official@gmail.com
-Date: 21 March 2019
-Time: 8:22 P.M (GMT)
-Time taken to develop: ~5 hrs
-Location: Cork, Ireland
-"""
+
 import random
 from math import inf
 
